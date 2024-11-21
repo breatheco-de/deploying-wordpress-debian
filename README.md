@@ -8,6 +8,10 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/deploying-wordpress-debian/blob/master/README.es.md) :es:*
+
+### Before you start...
+
+> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
 
 ## 📝 Instructions
@@ -21,11 +25,7 @@ This setup is called [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)
 
 With this work, you will understand how a web server works from the inside, and you will have a service to which you can do monitoring and security tests to reinforce the skills you will acquire throughout the course.
 
-<!-- hide -->
-### Before you start...
-
-> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
-<!-- endhide -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 How to start a project?
 
@@ -42,6 +42,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
+</onlyfor>
 
 <!-- hide -->
 ## Contributors
