@@ -15,6 +15,8 @@
 	  "duration": 2,
 	  "difficulty": "intermediate",
 	  "projectType": "tutorial",
+	  "autoPlay": "true",
+	  "template_url": "self",
 	  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	  "technologies": ["cybersecurity","network"],
 	  "graded": true,
