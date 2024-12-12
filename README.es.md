@@ -1,7 +1,6 @@
 <!-- hide -->
 # Desplegando un servidor Apache y sitio Wordpress en Debian (LAMP)
 
-
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/breatheco-de/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-kali-linux-on-virtual-machine)
@@ -9,6 +8,10 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are [available in english](https://github.com/breatheco-de/deploying-wordpress-debian/blob/main/README.md)*
+
+### Antes de empezar...
+
+> ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 <!-- endhide -->
 
 ## 📝 Instrucciones
@@ -22,14 +25,7 @@ Esta configuración se llama [LAMP](https://es.wikipedia.org/wiki/LAMP_(software
 
 Con este trabajo, comprenderás cómo funciona un servidor web desde el interior y tendrás un servicio en el que podrás realizar monitoreo y pruebas de seguridad para reforzar las habilidades que adquirirás a lo largo del curso.
 
-
-<!-- hide -->
-
-### Antes de empezar...
-
-> ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
-
-<!-- endhide -->
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -46,6 +42,9 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
+
+</onlyfor>
+
 
 <!-- hide -->
 
