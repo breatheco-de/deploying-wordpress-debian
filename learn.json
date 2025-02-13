@@ -15,7 +15,7 @@
 	  "difficulty": "intermediate",
 	  "projectType": "tutorial",
 	  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-	  "technologies": ["cybersecurity","network"],
+	  "technologies": ["cybersecurity","network", "ciberseguridad", "redes"],
 	  "graded": true,
 	  "editor": {
 	    	"version": "5.0"
