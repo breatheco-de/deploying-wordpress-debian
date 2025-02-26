@@ -1,5 +1,4 @@
 {
-	  "language": "node",
 	  "title": {
 	    	"us": "Deploying Wordpress Site on Debian",
 	    	"es": "Desplegando un sitio Wordpress en Debian"
@@ -18,13 +17,13 @@
 	  "autoPlay": "true",
 	  "template_url": "self",
 	  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-	  "technologies": ["cybersecurity","network"],
+	  "technologies": ["cybersecurity","network", "ciberseguridad", "redes"],
 	  "graded": true,
 	  "editor": {
-	    	"version": "3.1.23"
+	    	"version": "5.0"
 	  },
 	  "telemetry": {
-	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1636"
 	  },
 	"localhostOnly": true,
 	"delivery": {
