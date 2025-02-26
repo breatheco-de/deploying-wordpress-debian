@@ -25,7 +25,7 @@ Esta configuración se llama [LAMP](https://es.wikipedia.org/wiki/LAMP_(software
 
 Con este trabajo, comprenderás cómo funciona un servidor web desde el interior y tendrás un servicio en el que podrás realizar monitoreo y pruebas de seguridad para reforzar las habilidades que adquirirás a lo largo del curso.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -43,8 +43,7 @@ $ npm i @learnpack/learnpack -g
 $ learnpack start
 ```
 
-</onlyfor>
-
+</how-to-start>
 
 <!-- hide -->
 
