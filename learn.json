@@ -5,8 +5,8 @@
 	  },
 	  "slug": "deploying-wordpress-site-on-debian",
 	  "description": {
-	    	"us": "Learn how to make a basic deployment of a website with Wordpress, one of the most popular content management software.",
-	    	"es": "Aprende a hacer un despliegue básico de un sitio web con Wordpress, uno de los softwares de control de contenido mas populares."
+	    	"us": "Learn to deploy a basic WordPress website on an Apache server running on Debian. Set up a LAMP stack, one of the most popular web development environments, and understand how web servers work. This project will help you explore website deployment, monitoring, and security testing for real-world applications.",
+	    	"es": "Aprende a desplegar un sitio web básico de WordPress en un servidor Apache ejecutándose en Debian. Configura un stack LAMP, uno de los entornos de desarrollo web más populares, y comprende el funcionamiento interno de los servidores web. Este proyecto te ayudará a explorar el despliegue, monitoreo y pruebas de seguridad de sitios web."
 	  },
 	  "preview": "https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/prevoew.png",
 	  "grading": "isolated",
