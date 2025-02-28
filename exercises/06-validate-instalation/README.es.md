@@ -20,7 +20,15 @@ Una vez que el script se haya ejecutado correctamente, podrás ejecutar la prueb
 
 ![Script Windows](https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/script-test.png)
 
-## 3. ¡Has terminado!
+## 3. Lee los resultados
+
+Abre el `report.json` y léelo. Asegúrate de que no esté vacío y contenga algunos datos.
+
+## 3. Sube tus resultados
+
+El archivo report.json es lo que necesitas subir al entregar este proyecto.
+
+## 4. ¡Has terminado!
 
 Si pasaste las pruebas, ahora has desplegado un sitio de WordPress en un servidor Debian. De esta manera, puedes experimentar con escenarios que pongan a prueba tus habilidades en ciberseguridad y monitoreo de eventos.
 
