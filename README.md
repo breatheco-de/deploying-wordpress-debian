@@ -1,7 +1,7 @@
 <!-- hide -->
 # Deploying Apache Server and a WordPress site on Debian (LAMP)
 
-> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/breatheco-de/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/breatheco-de/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4GeeksAcademy/deploying-wordpress-debian)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
